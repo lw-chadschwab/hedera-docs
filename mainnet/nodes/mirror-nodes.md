@@ -20,11 +20,11 @@ hcs.mainnet.mirrornode.hedera.com:5600
 
 If you don't have access to a Hedera mirror node, you can check out some of the community hosted mirror node services as alternatives below.
 
-⚪[Ledger Works](https://lworks.io)
-
 ⚪[Dragon Glass](https://app.dragonglass.me/hedera/home)
 
 ⚪[Kabuto](https://kabuto.sh)
+
+⚪[Ledger Works](https://lworks.io)
 
 ## Run Your Own Beta Mirror Node
 
